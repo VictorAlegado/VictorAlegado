@@ -1,4 +1,4 @@
-<h1>Hello, I'm Victor! <br/><a>Aspiring Cyber Security Analyst</a>
+<h1>Hello, I'm Victor! <br/><a>Cyber Security Professional</a>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
