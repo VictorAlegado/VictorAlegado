@@ -1,6 +1,6 @@
 <h1>Hello, I'm Victor! <br/><a>Cyber Security Professional</a>
 
-<h2>👨‍💻 About Me:</h2>
+<h2>About Me:</h2>
 I'm a recent graduate with a Diploma in Cyber Security and a background in Information Systems and Business, Additionally I also hold certifications in CompTIA Security+ and Microsoft Azure Fundamentals (AZ-900), which strengthen my foundation in security best practices and cloud computing. 
 <br />
 <br />
