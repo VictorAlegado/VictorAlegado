@@ -4,7 +4,7 @@
 I'm a recent graduate with a Diploma in Cyber Security and a background in Information Systems and Business, Additionally I also hold certifications in CompTIA Security+ and Microsoft Azure Fundamentals (AZ-900), which strengthen my foundation in security best practices and cloud computing. 
 <br />
 <br />
-Currently, I'm building my career as a cybersecurity professional, with experience in threat analysis, incident response, and security automation. My hands-on experience includes working as a Cyber Security Intern at Datacom, where I contributed to the Cyber Defence Operations Centre by conducting phishing exercises, developing SOPs, and utilizing tools like Microsoft Sentinel, NIST frameworks, and CrowdStrike.
+Currently, I'm developing my career as a cybersecurity professional, with experience in threat analysis, incident response, and security automation. My hands-on experience includes working as a Cyber Security Intern at Datacom, where I contributed to the Cyber Defence Operations Centre by conducting phishing exercises, developing SOPs, and utilizing tools like Microsoft Sentinel, NIST frameworks, and CrowdStrike.
 <br />
 <br />
 I'm passionate about diving deep into cybersecurity practices, from implementing honeynets to analyzing security events and setting up Windows 2k19 Server deployments. My GitHub projects reflect my interest in practical applications of cybersecurity concepts, like my recent work on honeynet implementation and SIEM threat analysis in Azure.
