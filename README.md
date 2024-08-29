@@ -14,6 +14,8 @@ Feel free to explore my work, and let’s connect if you’re interested in cybe
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
+- <b>Phishing Email Forensics: Investigation And Analysis</b>
+  - [Investigation, Findings and Recommendations](https://github.com/VictorAlegado/PhishingEmailAnalysis) 
 - <b>Honeynet Implementation and SIEM Threat Analysis in Azure</b>
   - [Implementation Overview and Outcomes](https://github.com/VictorAlegado/HoneynetLab) 
 - <b>Secure Infrastructure Deployment and Web Server
