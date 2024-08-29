@@ -1,13 +1,13 @@
 <h1>Hello, I'm Victor! <br/><a>Cyber Security Professional</a>
 
 <h2>About Me:</h2>
-I'm a recent graduate with a Diploma in Cyber Security and a background in Information Systems and Business, Additionally I also hold certifications in CompTIA Security+ and Microsoft Azure Fundamentals (AZ-900), which strengthen my foundation in security best practices and cloud computing, and currently studying for SC-900 for my continious development. 
+I'm a recent Cyber Security graduate with a background in Information Systems and Business, accompanied by certifications in CompTIA Security+ and Microsoft Azure Fundamentals (AZ-900). I'm currently studying for the SC-900 to further enhance my expertise.
 <br />
 <br />
-Currently, I'm developing my career as a cybersecurity professional, with experience in threat analysis, incident response, and security automation. My hands-on experience includes working as a Cyber Security Intern at Datacom, where I contributed to the Cyber Defence Operations Centre by conducting phishing exercises, developing SOPs, and utilizing tools like Microsoft Sentinel, NIST frameworks, and CrowdStrike.
+My professional experience includes an internship at Datacom, where I contributed to the Cyber Defence Operations Centre by conducting phishing exercises, developing SOPs, and using tools like Microsoft Sentinel, NIST frameworks, and CrowdStrike.
 <br />
 <br />
-I'm passionate about diving deep into cybersecurity practices, from implementing honeynets to analyzing security events and setting up Windows 2k19 Server deployments. My GitHub projects reflect my interest in practical applications of cybersecurity concepts, like my recent work on honeynet implementation and SIEM threat analysis in Azure.
+I’m passionate about cybersecurity, with hands-on experience in threat analysis, incident response, and security automation. My GitHub showcases projects like honeynet implementation, SIEM threat analysis in Azure, and my recent phishing email forensics project, reflecting my commitment to practical cybersecurity applications.
 <br />
 <br />
 Feel free to explore my work, and let’s connect if you’re interested in cybersecurity, cloud security, or threat management.
