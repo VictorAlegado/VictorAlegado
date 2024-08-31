@@ -1,7 +1,7 @@
 <h1>Hello, I'm Victor! <br/><a>Cyber Security Professional</a>
 
 <h2>About Me:</h2>
-I'm a recent Cyber Security graduate with a background in Information Systems and Business, accompanied by certifications in CompTIA Security+ and Microsoft Azure Fundamentals (AZ-900). I'm currently studying for the SC-900 to further enhance my expertise.
+I'm a Cyber Security graduate with a background in Information Systems, Cyber Security and Business, accompanied by certifications in CompTIA Security+ and Microsoft Azure Fundamentals (AZ-900). I'm currently studying for the SC-900 to further enhance my expertise.
 <br />
 <br />
 My professional experience includes an internship at Datacom, where I contributed to the Cyber Defence Operations Centre by conducting phishing exercises, developing SOPs, and using tools like Microsoft Sentinel, NIST frameworks, and CrowdStrike.
