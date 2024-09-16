@@ -5,10 +5,10 @@ I'm a Cyber Security graduate with a background in Information Systems, Cyber Se
 
 <br />
 <br />
-My professional experience includes an internship at Datacom, where I contributed to the Cyber Defence Operations Centre by conducting phishing exercises, developing SOPs, and using tools like Microsoft Sentinel, NIST frameworks, and CrowdStrike.
+My professional experience includes an internship at Datacom, where I gained insights from the analysts in the Security Operations Centre by conducting tabletop phishing exercises, SOP development and leveraging tools/frameworks such as SIEM/SOAR/NIST to enhance threat detection and incident response
 <br />
 <br />
-I’m passionate about cybersecurity, with hands-on experience in threat analysis, incident response, and security automation. My GitHub showcases projects like honeynet implementation, SIEM threat analysis in Azure, and my recent phishing email forensics project, reflecting my commitment to practical cybersecurity applications.
+I'm eager to further develop my skills in cybersecurity, particularly within a Security Operations Centre environment. While I have hands-on experience in areas like threat analysis, incident response, and security automation, I’m excited to expand my knowledge and contribute to a team where I can further grow and develop.
 <br />
 <br />
 Feel free to explore my work, and let’s connect if you’re interested in cybersecurity, cloud security, or threat management.
